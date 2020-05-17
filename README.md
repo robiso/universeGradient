@@ -1,4 +1,4 @@
-# Default WonderCMS theme 2020
+# Universe Gradient WonderCMS theme
 Fully responsive.
 
 ## Preview
