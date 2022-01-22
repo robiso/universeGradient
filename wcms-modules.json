@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "universeGradient": {
+            "name": "UniverseGradient",
+            "repo": "https://github.com/robiso/universeGradient/tree/master",
+            "zip": "https://github.com/robiso/universeGradient/archive/master.zip",
+            "summary": "Universe gradient, variant of 2020 default theme.",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/universeGradient/master/preview.jpg"
+        }
+    }
+}
